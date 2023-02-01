@@ -1,3 +1,5 @@
-# This repository is a curriculum vitae of Rizauddin Saian.
+# A curriculum vitae of Rizauddin Saian.
+
+View CV: http://cv.rizauddin.com
 
 
