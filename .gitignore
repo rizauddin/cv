@@ -1,3 +1,6 @@
+## ignore ctags file
+tags
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
